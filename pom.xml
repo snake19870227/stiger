@@ -96,6 +96,7 @@
     <modules>
         <module>stiger-parent</module>
         <module>stiger-dependencies</module>
+        <module>stiger-core</module>
     </modules>
 
     <repositories>

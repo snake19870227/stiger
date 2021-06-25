@@ -14,7 +14,7 @@
 
     <artifactId>stiger-dependencies</artifactId>
     <packaging>pom</packaging>
-    <description>Star Tiger 脚手架项目 第三方库依赖管理模块</description>
+    <description>Star Tiger 脚手架 第三方库依赖管理模块</description>
 
     <dependencyManagement>
         <dependencies>
