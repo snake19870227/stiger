@@ -1,4 +1,4 @@
-package com.snake19870227.stiger.core.exception;
+package com.snake19870227.stiger.exception;
 
 /**
  * @author BuHuaYang

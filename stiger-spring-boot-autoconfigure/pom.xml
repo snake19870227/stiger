@@ -12,9 +12,9 @@
         <relativePath>../stiger-parent/pom.xml</relativePath>
     </parent>
 
-    <artifactId>stiger-core</artifactId>
+    <artifactId>stiger-spring-boot-autoconfigure</artifactId>
     <version>0.0.1</version>
-    <description>STiger 脚手架 core 模块</description>
+    <description>STiger 脚手架 Spring Boot 自动配置模块</description>
 
     <dependencyManagement>
         <dependencies>
@@ -122,33 +122,11 @@
 
     <dependencies>
 
-        <!-- spring -->
+        <!-- star tiger -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-configuration-processor</artifactId>
-            <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-logging</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-aop</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-json</artifactId>
-        </dependency>
-
-        <!--tool-->
-        <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-all</artifactId>
+            <groupId>com.github.snake19870227</groupId>
+            <artifactId>stiger-core</artifactId>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 

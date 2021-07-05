@@ -97,6 +97,7 @@
         <module>stiger-parent</module>
         <module>stiger-dependencies</module>
         <module>stiger-core</module>
+        <module>stiger-spring-boot-autoconfigure</module>
     </modules>
 
     <repositories>

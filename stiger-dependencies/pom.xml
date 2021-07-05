@@ -13,6 +13,7 @@
     </parent>
 
     <artifactId>stiger-dependencies</artifactId>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <description>Star Tiger 脚手架 第三方库依赖管理模块</description>
 
